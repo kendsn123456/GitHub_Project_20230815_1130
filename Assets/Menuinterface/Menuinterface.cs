@@ -3,6 +3,6 @@ namespace kendsn
 {
     public class Menuinterface : MonoBehaviour
     {
-        int id = 1;
+        float speed = 3.5f;
     }
 }
