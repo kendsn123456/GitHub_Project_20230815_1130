@@ -3,6 +3,6 @@ namespace kendsn
 {
     public class Menuinterface : MonoBehaviour
     {
-        string name = "Game";
+        int id = 1;
     }
 }
